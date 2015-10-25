@@ -1,0 +1,10 @@
+<resources>
+
+    <declare-styleable name="CustomButton">
+        <attr name="btnColor" format="enum" >
+            <enum name="pink" value="0" />
+            <enum name="gray" value="1" />
+            <enum name="blue" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
